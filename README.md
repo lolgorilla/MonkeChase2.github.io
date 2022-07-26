@@ -1,4 +1,4 @@
-Privacy Policy Last updated: May 26, 2022
+Privacy Policy
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -16,7 +16,7 @@ Application means the software program provided by the Company downloaded by You
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Bread Runners.
 
-Country refers to: United Kingdom
+Country refers to: United States
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -76,7 +76,7 @@ Law enforcement Under certain circumstances, the Company may be required to disc
 
 Other legal requirements The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
-Comply with a legal obligation Protect and defend the rights or property of the Company Prevent or investigate possible wrongdoing in connection with the Service Protect the personal safety of Users of the Service or the public Protect against legal liability Deletion Of Data To delete your data if it has been saved please contact us at breadrunnerscontact@gmail.com
+Comply with a legal obligation Protect and defend the rights or property of the Company Prevent or investigate possible wrongdoing in connection with the Service Protect the personal safety of Users of the Service or the public Protect against legal liability Deletion Of Data To delete your data if it has been saved please contact us at roblox82beatsaber@gmail.com
 
 Security of Your Personal Data The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
